@@ -4,4 +4,6 @@ storybook-static
 .idea
 .env
 examples/elasticsearch/netlify-lambda/
-package-lock.json
+package-lock.jso
+.settings
+.project
